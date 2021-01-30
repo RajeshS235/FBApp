@@ -31,7 +31,7 @@ public class LoginTest extends BaseClass {
 	@Test(priority=3)
 	public void validatePassword() {
 		IphonePojo l = new IphonePojo();
-		l.setPassword(pass);
+		l.setPassword(passes);
 		
 		logger.info("Password is entered");
 		
