@@ -49,7 +49,7 @@ public class LoginTest extends BaseClass {
 		}
 		else {
 			Assert.assertTrue(false);
-			logger.info("Test Failed");
+			logger.info("Test Fail");
 		}
 	}	
 	
