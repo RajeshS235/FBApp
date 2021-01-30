@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite for Product Availability">
+  <!-- <test name="Iphone 11 product availability">
+<classes>
+<class name="org.product.Iphone11Availabitiy"></class>
+</classes>
+  </test>   -->
+ <test name="MI laptop product add two cart">
+<classes>
+<class name="org.product.MiLaptopsAddCart"></class>
+
+</classes>
+  </test>
+</suite> 

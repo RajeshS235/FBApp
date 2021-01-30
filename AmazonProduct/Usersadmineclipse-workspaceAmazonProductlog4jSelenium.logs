@@ -1,0 +1,4 @@
+11:27:15,948  INFO RollingFileAppender<strong>{1}</strong>:20 - Url is Launched
+11:27:16,538  INFO RollingFileAppender<strong>{1}</strong>:28 - Username is sent
+11:27:16,682  INFO RollingFileAppender<strong>{1}</strong>:36 - Password is entered
+11:27:16,765  INFO RollingFileAppender<strong>{1}</strong>:40 - Clicked Ok option

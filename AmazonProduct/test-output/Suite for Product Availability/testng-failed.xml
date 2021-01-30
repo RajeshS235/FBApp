@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite for Product Availability]">
+  <test name="MI laptop product add two cart(failed)">
+    <classes>
+      <class name="org.product.MiLaptopsAddCart">
+        <methods>
+          <include name="browserLaunch"/>
+          <include name="miLaptop"/>
+          <include name="browerClose"/>
+        </methods>
+      </class> <!-- org.product.MiLaptopsAddCart -->
+    </classes>
+  </test> <!-- MI laptop product add two cart(failed) -->
+</suite> <!-- Failed suite [Suite for Product Availability] -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27104" started-at="2021-01-29T05:15:44Z" finished-at="2021-01-29T05:16:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27104" started-at="2021-01-29T05:15:44Z" finished-at="2021-01-29T05:16:11Z">
+      <class name="org.product.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.product.LoginTest@66a3ffec]" name="setUp" is-config="true" duration-ms="10502" started-at="2021-01-29T10:45:44Z" finished-at="2021-01-29T10:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test01()[pri:1, instance:org.product.LoginTest@66a3ffec]" name="test01" duration-ms="5144" started-at="2021-01-29T10:45:54Z" finished-at="2021-01-29T10:45:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="validateUsername()[pri:2, instance:org.product.LoginTest@66a3ffec]" name="validateUsername" duration-ms="409" started-at="2021-01-29T10:45:59Z" finished-at="2021-01-29T10:46:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUsername -->
+        <test-method status="PASS" signature="validatePassword()[pri:3, instance:org.product.LoginTest@66a3ffec]" name="validatePassword" duration-ms="297" started-at="2021-01-29T10:46:00Z" finished-at="2021-01-29T10:46:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePassword -->
+        <test-method status="PASS" signature="errorTextValidate()[pri:4, instance:org.product.LoginTest@66a3ffec]" name="errorTextValidate" duration-ms="10703" started-at="2021-01-29T10:46:00Z" finished-at="2021-01-29T10:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errorTextValidate -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.product.LoginTest@66a3ffec]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-01-29T10:46:11Z" finished-at="2021-01-29T10:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.product.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
